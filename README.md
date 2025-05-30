@@ -1,22 +1,67 @@
-# Hi, I'm Peniel
+# Hi, I'm PenielMelaku
 
-![Profile Picture](https://avatars.githubusercontent.com/u/162007916?v=4&size=64)
+![Profile Picture](https://avatars.githubusercontent.com/u/162007916?v=4)
 
-## About Me 
-I am a passionate developer with experience in various technologies. Feel free to connect with me!
+I am a passionate crax with experience in full-stack development. I enjoy building scalable applications and contributing to open-source projects. Let's connect!
 
-## Skills and Tools
-- **Programming Languages:** Python, JavaScript, C++
-- **Frameworks/Libraries:** React, Django, Node.js
-- **Other Tools:** Git, Docker, AWS
-
-## Connect with Me 
-- [Twitter](https://twitter.com/Penielmelaku) 
+### Connect with Me 
+- [LinkedIn](https://www.linkedin.com/in/penielmelaku) 
+- [Twitter](https://twitter.com/penielmelaku) 
 - [Instagram](https://www.instagram.com/Peniel4fun) 
 
-## Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenielMelaku&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vulncrax&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penielmelaku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Skills and Tools
 
-## Support Me 
+### Programming Languages
+- 🐍 kali linx
+- 🚀 JavaScript
+- ☕ python
+- ⚡ C++
+- 🟩 Networking
+
+### Frameworks & Libraries
+- React.js
+- Node.js
+
+### Databases
+- MySQL
+
+### Other Tools
+- Git
+- Docker
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenielMelaku&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenielMelaku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contribution Graph 
+
+![Contribution Graph](https://contributions-calender.vercel.app/api?username=PenielMelaku)
+
+## Projects 
+
+### Project 1: Weather App
+A real-time weather application built with React.js and OpenWeatherMap API.
+- **Stack:** React.js, Axios, CSS
+- **Demo:** [Live Demo](https://weather-app.penielmelaku.com) 
+- **Repository:** [GitHub Repo](https://github.com/PenielMelaku/weather-app) 
+
+### Project 2: E-commerce Website
+An e-commerce platform built with Django and Stripe for payments.
+- **Stack:** Django, PostgreSQL, Stripe
+- **Demo:** [Live Demo](https://ecommerce.penielmelaku.com) 
+- **Repository:** [GitHub Repo](https://github.com/PenielMelaku/e-commerce) 
+
+## Certifications
+
+- [Certified AWS Solutions Architect](https://www.credential.net/certificate/your-cert-id) 
+- [Google Certified Associate Android Developer](https://www.credential.net/certificate/your-cert-id) 
+
+## Support Me
+
+If you find my work helpful, consider supporting me:
+- [Buy Me a Coffee](https://www.buymeacoffee.com/penielmelaku) 
+- [Patreon](https://www.patreon.com/penielmelaku) 
+
+---
+Made with ❤️ by PenielMelaku | [Resume](https://resume.penielmelaku.com) 
