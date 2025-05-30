@@ -47,7 +47,7 @@ tool for pen testing Network.
 
 ## Certifications
 
-- [file:///C:/Users/JA%20Software/OneDrive/Documents/College/Certeficate/cyber.pdf](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7AIPMU1CDW.pdf)
+- https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7AIPMU1CDW.pdf
 
 ## Support Me
 
