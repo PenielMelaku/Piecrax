@@ -16,6 +16,7 @@ I am a passionate developer with experience in various technologies. Feel free t
 
 ## Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vulncrax&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vulncrax&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penielmelaku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Support Me 
