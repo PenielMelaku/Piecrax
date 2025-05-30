@@ -40,22 +40,14 @@ I am a passionate crax with experience in full-stack development. I enjoy buildi
 
 ## Projects 
 
-### Project 1: Weather App
-A real-time weather application built with React.js and OpenWeatherMap API.
-- **Stack:** React.js, Axios, CSS
-- **Demo:** [Live Demo](https://weather-app.penielmelaku.com) 
-- **Repository:** [GitHub Repo](https://github.com/PenielMelaku/weather-app) 
-
-### Project 2: E-commerce Website
-An e-commerce platform built with Django and Stripe for payments.
-- **Stack:** Django, PostgreSQL, Stripe
-- **Demo:** [Live Demo](https://ecommerce.penielmelaku.com) 
-- **Repository:** [GitHub Repo](https://github.com/PenielMelaku/e-commerce) 
+### Project 1: Pi-Fi
+tool for pen testing Network.
+- HTML, Kali linux, bash, shell 
+- **Repository:** [GitHub Repo](https://github.com/PenielMelaku/Pi-Fi) 
 
 ## Certifications
 
-- [Certified AWS Solutions Architect](https://www.credential.net/certificate/your-cert-id) 
-- [Google Certified Associate Android Developer](https://www.credential.net/certificate/your-cert-id) 
+- file:///C:/Users/JA%20Software/OneDrive/Documents/College/Certeficate/cyber.pdf
 
 ## Support Me
 
