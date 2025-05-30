@@ -1,6 +1,6 @@
 # Hi, I'm Peniel
 
-![Profile Picture](https://avatars.githubusercontent.com/u/your-user-id?v=4)
+![Profile Picture](https://avatars.githubusercontent.com/u/162007916?v=4&size=64)
 
 ## About Me 
 I am a passionate developer with experience in various technologies. Feel free to connect with me!
@@ -16,6 +16,6 @@ I am a passionate developer with experience in various technologies. Feel free t
 
 ## Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vulncrax&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vulncrax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penielmelaku&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Support Me 
