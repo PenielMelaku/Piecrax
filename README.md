@@ -48,12 +48,15 @@ tool for pen testing Network.
 ## Certifications
 
 - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7AIPMU1CDW.pdf
+- www.udacity.com/certificate/e/cb15c8a0-dff8-11ef-afea-33c7b25bf9c7
+- https://www.coursera.org/account/accomplishments/verify/6949F5PKW2XD
+- https://www.coursera.org/account/accomplishments/verify/8RGA5YH9KS27
+- https://www.coursera.org/account/accomplishments/verify/37X72WJZ5UBK
+- https://www.coursera.org/account/accomplishments/verify/J4PLHZTPV3WD
 
 ## Support Me
+just give me star
 
 If you find my work helpful, consider supporting me:
-- [Buy Me a Coffee](https://www.buymeacoffee.com/penielmelaku) 
-- [Patreon](https://www.patreon.com/penielmelaku) 
-
 ---
-Made with ❤️ by PenielMelaku | [Resume](https://resume.penielmelaku.com) 
+Made with ❤️ by PenielMelaku |
