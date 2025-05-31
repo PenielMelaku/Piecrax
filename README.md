@@ -2,7 +2,7 @@
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/162007916?v=4)
 
-I am a passionate crax with experience in full-stack development. I enjoy building scalable applications and contributing to open-source projects. Let's connect!
+I am a passionate haxer with experience in cyber security. I enjoy building scalable applications and contributing to open-source projects. Let's connect!
 
 ### Connect with Me 
 - [LinkedIn](https://www.linkedin.com/in/penielmelaku) 
